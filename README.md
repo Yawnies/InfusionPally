@@ -13,7 +13,7 @@ To access the menu, click the BoP button on your minimap wheel, or type `/infusi
 The **Help** button displays the available commands.  
 **Clicking** any of the paladin names in the widgets will automatically whisper them requesting a BoP.  
   
-![TrackersBig](https://files.catbox.moe/ozs0xs.png) ![TrackersSmol](https://files.catbox.moe/185uiy.png)  
+![TrackersBig](https://files.catbox.moe/ozs0xs.png) ![TrackersSmol](https://files.catbox.moe/hhqkwj.png)  
   
 Above is a comparison between the default and the 'Compact' widgets. Both have the same functionality.
 ### Commands
