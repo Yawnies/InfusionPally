@@ -22,7 +22,7 @@ Above is a comparison between the default and the 'Compact' widgets. Both have t
 `/infpclose` or `/infpc`: closes the tracking widgets. Can be used only if closing the configuration widgets OR if the raid does not have any druids in it.
 ## Extra Features
 * The addon takes into account the Guardian's Favor talent and changes the cooldowns accordingly to match the correct CD, so don't worry about that.
-* This addon also attempts to take mid-raid respecs into account without hindering performance by scanning the raid paladins every 10 minutes for talent changes. It'll adjust CDs accordingly. (may be changed later)
+* This addon also attempts to take mid-raid respecs into account without hindering performance by scanning the raid paladins every 10 minutes for talent changes. It'll adjust CDs automatically. (may be changed later)
 ## Tips/Caveats
 * If you disconnect or leave mid raid, the cooldowns **will reset**. This is unavoidable.
 * It is likely that if you die and have to ghost run back while the raid is ongoing (read: they can't/won't res you and just continue pulling), you will miss CDs and cause the tracker to be inaccurate if they happen to use the spells during your runback. Try not to die, silly :>!
