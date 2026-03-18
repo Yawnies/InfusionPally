@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: InfusionPally by |cfff5b5ffYawnies
+## Notes: Wanna see which pallies used BoP in your raid? Then this lightweight tracker is for you.
+## Author: Yawnies
+## Version: 1.0
+## SavedVariables: INFUSIONPALLY_PREFS
+
+Core.lua
+MainUI.lua
+TrackerUI.lua
+Commands.lua
+Minimap.lua
